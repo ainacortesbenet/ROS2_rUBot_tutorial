@@ -2,7 +2,7 @@
 
 Contains a ROS2 Humble tutorial needed to perform the rUBot project
 
-## Tutorial packages
+## Tutorial packages 2
 
 - `ros2_tutorial`: introductory ROS 2 publisher, subscriber and launch examples.
 - `ros2_move_turtle`: Turtlesim pose-control examples using topics and services.
